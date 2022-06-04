@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "access.token.expires.seconds",
+      "type": "java.lang.String",
+      "description": "Seconds of access token expires access.token.expires.seconds."
+    }
+  ]
+}
